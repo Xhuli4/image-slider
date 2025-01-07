@@ -6,24 +6,9 @@ An interactive image slider built with **HTML**, **CSS**, and **JavaScript**. Th
 - Smooth sliding animations for images.  
 - Dynamic "Next" and "Previous" buttons for navigation.  
 - Animated text and button transitions for a polished UI.  
-- Fully responsive design for various screen sizes.  
 
 ## Technologies Used  
 - HTML  
 - CSS (including animations and transitions)  
-- JavaScript (DOM manipulation and event handling)  
+- JavaScript  
 
-## Demo  
-Check out the live demo of the project here: [Live Demo Link](#)  
-*(Replace `#` with the actual link once you deploy your project.)*
-
-## Screenshots  
-![Diber, Albania](./screenshots/diber-screenshot.png)  
-![Fier, Albania](./screenshots/fier-screenshot.png)  
-
-*(Add screenshots of your slider here.)*
-
-## How to Use  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/image-slider.git
